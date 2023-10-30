@@ -1,5 +1,5 @@
 # CalculusRun
-# A texture pack for Geometry Dash that includes random ass images (and audio) from my friends.
+# A texture pack for Geometry Dash that includes random ass images and audio from my friends.
 
 How to install
 1. Right Click Geometry Dash on your Steam library then Manage > Browse Local Files
