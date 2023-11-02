@@ -10,4 +10,6 @@ How to install:
 6. Replace the files in the destination and make sure you don't delete CCLocalLevels.dat!!
 7. Open the game and see if it works, you'll know when it works. **Believe me.**
 
+This is my first ever GD texture pack so it's pretty bad, but i'll get better! (hopefully)
+
 **May break when 2.2 comes out! I will make it compatible with 2.2 if does break!!! :3**
