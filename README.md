@@ -9,7 +9,6 @@ This repo will be archived and i'll make a new release with the full version att
 
 
 
-# Calculus Run
 # A texture pack for Geometry Dash that includes the most random images, memes, and audio from my friends.
 
 How to install:
